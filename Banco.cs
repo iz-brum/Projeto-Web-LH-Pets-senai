@@ -17,7 +17,7 @@ namespace Projeto_Web_Lh_Pets_versão_1
             try
             {
                 SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder(
-                "User ID=sa;Password=defes@123;" +
+                "User ID=SUBSTITUA_POR_SEU_LOGIN;Password=SUBSTITUA_POR_SUA_SENHA;" +
                 "Server=localhost\\SQLEXPRESS;" +
                 "Database=vendas;" +
                 "Trusted_Connection=False;"
