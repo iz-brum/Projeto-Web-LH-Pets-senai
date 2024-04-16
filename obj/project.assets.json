@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\izann\\OneDrive - SENAI\\Documentos\\senai-ead\\Codificação para Back-End\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+      "projectUniqueName": "C:\\Users\\izann\\OneDrive - SENAI\\Documentos\\senai-ead\\Codificação para Back-End\\LHPets_git\\Projeto-Web-LH-Pets-senai\\Projeto_Web-Lh_Pets_Alunos.csproj",
       "projectName": "Projeto_Web-Lh_Pets_Alunos",
-      "projectPath": "C:\\Users\\izann\\OneDrive - SENAI\\Documentos\\senai-ead\\Codificação para Back-End\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+      "projectPath": "C:\\Users\\izann\\OneDrive - SENAI\\Documentos\\senai-ead\\Codificação para Back-End\\LHPets_git\\Projeto-Web-LH-Pets-senai\\Projeto_Web-Lh_Pets_Alunos.csproj",
       "packagesPath": "C:\\Users\\izann\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\izann\\OneDrive - SENAI\\Documentos\\senai-ead\\Codificação para Back-End\\Projeto_Web-Lh_Pets_Alunos\\obj\\",
+      "outputPath": "C:\\Users\\izann\\OneDrive - SENAI\\Documentos\\senai-ead\\Codificação para Back-End\\LHPets_git\\Projeto-Web-LH-Pets-senai\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\izann\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "67km93d5vuo6+qRqbkLahlV1zn6CMFJBJWu/ekVrawj9KaMgZ0oMPoEXblqXHgp9bYICZDC7Ca9JQhjG3/YAxQ==",
+  "dgSpecHash": "JLOkXGatY3gMVKdzWm6FfCNfNJ251Jj8MDdBSGi/KkoFU6CZ7UJLnhk3p+bCpSUjjZWZM+Ny0F/zNDDe1CzdVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\izann\\OneDrive - SENAI\\Documentos\\senai-ead\\Codificação para Back-End\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+  "projectFilePath": "C:\\Users\\izann\\OneDrive - SENAI\\Documentos\\senai-ead\\Codificação para Back-End\\LHPets_git\\Projeto-Web-LH-Pets-senai\\Projeto_Web-Lh_Pets_Alunos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\izann\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\izann\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
